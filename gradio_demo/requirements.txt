@@ -1,4 +1,4 @@
-diffusers==0.25.1
+diffusers==0.38.0
 torch==2.8.0
 torchvision==0.15.1
 transformers==5.0.0rc3
